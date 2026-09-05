@@ -1,0 +1,13 @@
+# Public raw data are downloaded from GEO and are not committed.
+data/raw/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments and editor metadata
+.venv/
+venv/
+.DS_Store
+
